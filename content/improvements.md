@@ -5,3 +5,9 @@
 * Keep my desk downstairs clean so that there are minimal distractions
 * Spend more time at school working 
 * Encourage the above point by packing a lunch
+
+
+
+
+Doing college application.
+
