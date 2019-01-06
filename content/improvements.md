@@ -6,8 +6,7 @@
 * Spend more time at school working 
 * Encourage the above point by packing a lunch
 
-
-
-
-Doing college application.
-
+# Efficency Improvements
+* All assignments shall be done the day they are assigned before 4pm
+* Under rare circimstances (If I am behind, I will always keep working till 7pm)
+* In the ocassions where mom doesnt want me at home,
