@@ -15,7 +15,7 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Hugo tranquilpeak theme"
+title = "Hopeful Coherence"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -32,7 +32,7 @@ canonifyurls = true
 
 [author]
   name = "Nicholas Venner"
-  bio = ""
+  bio = "Condensing the being of a person down into a single paragraph might be impssible, but I think this paragaph does a decent job of it :D"
   job = "Student"
   location = "Colorado"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -115,8 +115,8 @@ canonifyurls = true
   clearReading = true
 
   # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo".
-  # If false it will flat categories.
   hierarchicalCategories = true
+  # If false it will flat categories.
 
   description = "Hugo tranquilpeak theme demo"
 
