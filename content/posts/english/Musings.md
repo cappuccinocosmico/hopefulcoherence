@@ -14,18 +14,32 @@ Personhood continues to be a topic of international debate and has been question
 And there are only five basic fears, out of which almost all of our other so-called fears are manufactured. These are:
 
    Extinction—the fear of annihilation, of ceasing to exist. This is a more fundamental way to express it than just calling it "fear of death." The idea of no longer being arouses a primary existential anxiety in all normal humans. Consider that panicky feeling you get when you look over the edge of a high building.
-    Mutilation—the fear of losing any part of our precious bodily structure; the thought of having our body's boundaries invaded, or of losing the integrity of any organ, body part, or natural function. Anxiety about animals, such as bugs, spiders, snakes, and other creepy things arises from fear of mutilation.
-    Loss of Autonomy—the fear of being immobilized, paralyzed, restricted, enveloped, overwhelmed, entrapped, imprisoned, smothered, or otherwise controlled by circumstances beyond our control. In physical form, it's commonly known as claustrophobia, but it also extends to our social interactions and relationships.
-    Separation—the fear of abandonment, rejection, and loss of connectedness; of becoming a non-person—not wanted, respected, or valued by anyone else. The "silent treatment," when imposed by a group, can have a devastating psychological effect on its target.
-    Ego-death—the fear of humiliation, shame, or any other mechanism of profound self-disapproval that threatens the loss of integrity of the Self; the fear of the shattering or disintegration of one's constructed sense of lovability, capability, and worthiness.
+   
+   
+   Mutilation—the fear of losing any part of our precious bodily structure; the thought of having our body's boundaries invaded, or of losing the integrity of any organ, body part, or natural function. Anxiety about animals, such as bugs, spiders, snakes, and other creepy things arises from fear of mutilation.
+    
+    
+   Loss of Autonomy—the fear of being immobilized, paralyzed, restricted, enveloped, overwhelmed, entrapped, imprisoned, smothered, or otherwise controlled by circumstances beyond our control. In physical form, it's commonly known as claustrophobia, but it also extends to our social interactions and relationships.
+    
+    
+   Separation—the fear of abandonment, rejection, and loss of connectedness; of becoming a non-person—not wanted, respected, or valued by anyone else. The "silent treatment," when imposed by a group, can have a devastating psychological effect on its target.
+    
+    
+   Ego-death—the fear of humiliation, shame, or any other mechanism of profound self-disapproval that threatens the loss of integrity of the Self; the fear of the shattering or disintegration of one's constructed sense of lovability, capability, and worthiness.
 
 The idea from psycology is that all of the other fears are manufactured from these fears.
 # What is the nature of reality
 Simulacra and Simulation delineates the sign-order into four stages:
 
    The first stage is a faithful image/copy, where we believe, and it may even be correct, that a sign is a "reflection of a profound reality" (pg 6), this is a good appearance, in what Baudrillard called "the sacramental order".
-    The second stage is perversion of reality, this is where we come to believe the sign to be an unfaithful copy, which "masks and denatures" reality as an "evil appearance—it is of the order of maleficence". Here, signs and images do not faithfully reveal reality to us, but can hint at the existence of an obscure reality which the sign itself is incapable of encapsulating.
-    The third stage masks the absence of a profound reality, where the sign pretends to be a faithful copy, but it is a copy with no original. Signs and images claim to represent something real, but no representation is taking place and arbitrary images are merely suggested as things which they have no relationship to. Baudrillard calls this the "order of sorcery", a regime of semantic algebra where all human meaning is conjured artificially to appear as a reference to the (increasingly) hermetic truth.
-    The fourth stage is pure simulacrum, in which the simulacrum has no relationship to any reality whatsoever. Here, signs merely reflect other signs and any claim to reality on the part of images or signs is only of the order of other such claims. This is a regime of total equivalency, where cultural products need no longer even pretend to be real in a naïve sense, because the experiences of consumers' lives are so predominantly artificial that even claims to reality are expected to be phrased in artificial, "hyperreal" terms. Any naïve pretension to reality as such is perceived as bereft of critical self-awareness, and thus as oversentimental.
+   
+   
+   The second stage is perversion of reality, this is where we come to believe the sign to be an unfaithful copy, which "masks and denatures" reality as an "evil appearance—it is of the order of maleficence". Here, signs and images do not faithfully reveal reality to us, but can hint at the existence of an obscure reality which the sign itself is incapable of encapsulating.
+   
+   
+   The third stage masks the absence of a profound reality, where the sign pretends to be a faithful copy, but it is a copy with no original. Signs and images claim to represent something real, but no representation is taking place and arbitrary images are merely suggested as things which they have no relationship to. Baudrillard calls this the "order of sorcery", a regime of semantic algebra where all human meaning is conjured artificially to appear as a reference to the (increasingly) hermetic truth.
+   
+   
+   The fourth stage is pure simulacrum, in which the simulacrum has no relationship to any reality whatsoever. Here, signs merely reflect other signs and any claim to reality on the part of images or signs is only of the order of other such claims. This is a regime of total equivalency, where cultural products need no longer even pretend to be real in a naïve sense, because the experiences of consumers' lives are so predominantly artificial that even claims to reality are expected to be phrased in artificial, "hyperreal" terms. Any naïve pretension to reality as such is perceived as bereft of critical self-awareness, and thus as oversentimental.
 
 Matrix was heavily inspired by jean's work in this area.
