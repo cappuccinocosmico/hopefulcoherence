@@ -43,3 +43,11 @@ Simulacra and Simulation delineates the sign-order into four stages:
    The fourth stage is pure simulacrum, in which the simulacrum has no relationship to any reality whatsoever. Here, signs merely reflect other signs and any claim to reality on the part of images or signs is only of the order of other such claims. This is a regime of total equivalency, where cultural products need no longer even pretend to be real in a naïve sense, because the experiences of consumers' lives are so predominantly artificial that even claims to reality are expected to be phrased in artificial, "hyperreal" terms. Any naïve pretension to reality as such is perceived as bereft of critical self-awareness, and thus as oversentimental.
 
 Matrix was heavily inspired by jean's work in this area.
+Simulacra and Simulation identifies three types of simulacra and identifies each with a historical period:
+
+  
+  First order, associated with the premodern period, where representation is clearly an artificial placemarker for the real item. The uniqueness of objects and situations marks them as irreproducibly real and signification obviously gropes towards this reality.
+  
+  Second order, associated with the modernity of the Industrial Revolution, where distinctions between representation and reality break down due to the proliferation of mass-reproducible copies of items, turning them into commodities. The commodity's ability to imitate reality threatens to replace the authority of the original version, because the copy is just as "real" as its prototype.
+  
+  Third order, associated with the postmodernity of Late Capitalism, where the simulacrum precedes the original and the distinction between reality and representation vanishes. There is only the simulation, and originality becomes a totally meaningless concept.[6]
