@@ -1,6 +1,7 @@
 # Reading Journal Entry #1
 
 # Reading Journal Entry #2
+
 # Reading Journal Entry #3
 # Reading Journal Entry #4
 # Reading Journal Entry #5
@@ -41,3 +42,6 @@ This is an open-ended free-write that explores what you are thinking about what 
 on big ideas and the big idea questions the author is exploring. You might consider what you enjoy about this book, and/or
 what makes it challenging to read. You can go any direction, but remember to keep it focused on specific characters, events,
 and details from the text.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzYzNDcxMTM4XX0=
+-->
