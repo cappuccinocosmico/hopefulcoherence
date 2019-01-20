@@ -46,3 +46,4 @@ Make sure that you right what you need to write for the teacher, not what you th
 5. Do all of the Homework on time and stuff in AP Macro
 
 This is a just generaly good studying practice for the tests. although this and english are the classes I am the most scared about.
+
