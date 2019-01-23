@@ -1,47 +1,36 @@
 # Reading Journal Entry #1
-
+In the novel's futuristic world, human personalities can be stored digitally and downloaded into new bodies, called "sleeves". Most people have there brains digitized in their spinal columns that store their consciousness. While most people can afford to get resleeved at the end of their lives, they are unable to update their bodies and most go through the full aging process each time, which discourages most from resleeving more than once or twice. So while normal people can live indefinitely in theory, most choose not to. Only the wealthy are able to acquire replacement bodies on a continual basis.  The very rich are also able to keep copies of their minds in remote storage, which they update regularly. This ensures that even if their stack is destroyed, they can be resurected.
 # Reading Journal Entry #2
+As you may know this book was recently adapted into a Netflix TV show.  The Netflix adaptation made significant changes to the plot of the book as well as the tone.  For example, the TV series is more of a reflection on the nature of capitalism; you can see it as a worst case scenario of capitalism playing out, where the rich have **literally** everything in society (and everyone else has been left behind?).  In this book you see the rich have essentially ascended to a godlike status over the rest of the world.  You can see this privilege and domination in how they are completely unkillable and have the resources to accomplish whatever they may desire in the world.  Is there some irony in that this is one of the most highly budgeted TV series ever made?  While this reading may seem fairly obvious, I think it is too little discussed.  I also choose to think of it as a commentary on the concept of immortality when it comes to corporations as well as inheritance law.  Should corporations have more rights than people?  Does our system really prioritize the importance of profit over everything?
+
+In the book/TV series what makes the rich so powerful is their ability to persist and dominate others. There passage illustrates:
+
+
+
+>“Perspective.” He nodded and swung an arm out over his property. “You see that tree. Just beyond the tennis courts.”...“That tree is over seven hundred years old. When I bought this property, I hired a design engineer and he wanted to chop it down. He was planning to build the house further up the rise, and the tree was spoiling the sea view. I sacked him.” ...“You see, Mr. Kovacs, that engineer was a man in his thirties, and to him the tree was just an inconvenience. It was in his way. The fact it had been part of the world for over twenty times the length of his own life didn’t seem to bother him. He had no respect.”
+
+
+
+The immortal rich in this story look down upon the rest of the world for their supposed lack of (fill in the blank), whether that be experience, influence, sheer purchase power, etc.  In the show this is played out with more focus on how a long life erodes a person’s morals over time, in this system.  In the book so far, those themes have yet to be expressed to the same level.
+
+
+
+I saw certain parallels with inheritance law and corporations. If you can read the rich titans of industry in the book as personal manifestations of corporations, the similarities are quite striking. In real life, corporations can live forever, and there assets can be transferred with them regardless of their age.  Think Disney and there slow and steady acquisition of IP. Another potential read on this is the similarities with inheritance law, when a family is able to pass wealth along it can lead to vast wealth inequality https://www.youtube.com/watch?v=6Xa9T2OMzmw and a critique of money and accumulation of capital. Its actually rather striking that the TV show doubles down on income/wealth inequality, I am actually kind of disappointed how the book has handled it so far.
+
 
 # Reading Journal Entry #3
+Connections
+- Inheritence Law
+- Wealth Inequality
+- The Inobling Quality of Age
+-
 # Reading Journal Entry #4
+Passages
+> I lifted a hand to shade my eyes and saw that the seaward lounge had an upper level with sliding glass doors that accessed a balcony. Leaning on the balcony was a man. He must have heard us come in; come to that, he must have heard the police cruiser arrive and known what it signified, but still he stayed where he was, staring out to sea. Coming back from the dead sometimes makes you feel that way. Or maybe it was just arrogance. Mrs Bancroft nodded me forward and we went up a set of stairs made from the same wood as the door. For the first time I noticed that the walls of the room were shelved from top to bottom with books. The sun was laying an even coat of orange light along their spines.
+
+>“Perspective.” He nodded and swung an arm out over his property. “You see that tree. Just beyond the tennis courts.”...“That tree is over seven hundred years old. When I bought this property, I hired a design engineer and he wanted to chop it down. He was planning to build the house further up the rise, and the tree was spoiling the sea view. I sacked him.” ...“You see, Mr. Kovacs, that engineer was a man in his thirties, and to him the tree was just an inconvenience. It was in his way. The fact it had been part of the world for over twenty times the length of his own life didn’t seem to bother him. He had no respect.”
+
+> We looked at each other while I tried to decide if I was angry with this man or not. He’d dragged me halfway across the settled universe, dumped me into a new body and offered me a deal that was weighted so I couldn’t refuse. Rich people do this. They have the power and they see no reason not to use it. Men and women are just merchandise, like everything else. Store them, freight them, decant them. Sign at the bottom please.
 # Reading Journal Entry #5
-
-
-1) Summary Paragraph: complete one per week
-A summary is a “just the facts” type of free-write. What was the reading about?
- Explain what happened in the reading you did for that session, day, or week—focus on key events and details.
- Introduce us to new characters, and update us with what is new with major characters we have met before.
- Perhaps end with a prediction about what you think will happen next in the story—be sure to base that prediction on textual
-evidence from your summary (in other words, the foreshadowing).
-2) Reading Strategy Free-write: complete four different choices below per week
-Questions (Comprehension)
-What are the big ideas the author seems to be asking about. Use the subjects on the back of this sheet to build two or three
-big idea questions (level 3), and explore BOTH the answers the author seems to suggest through the story AS WELL AS
-your own ideas.
-Predictions (Comprehension)
-Make a prediction about what is going to happen next; these could be plot events or conflict developments. Use textual
-evidence to support why you think your prediction is likely to develop, and explain in depth what is giving you this idea.
-Passages (Literature Study)
-Select a specific passage from your reading that you have determined to be especially important to your reading for the day.
-Explain what make the passage stand out by analyzing how it move the plot forward through rising action, develops a
-character, and /or addresses one of the big ideas in the story.
-Characters (Literature Study)
-Explain how the reading for the day develops a major character. Discuss new developments for the character, personal
-growth they experience, and internal and external conflicts in progress. Make predictions about how these conflicts will
-play out as you read on.
-Connections (Literature Study)
-Synthesize, (in other words, connect), what you have been reading about with other books you have read, movies you’ve
-seen, current events, and your own life experience. Explain specifically what reminds you of what, why, how, and what big
-ideas and emerging messages are suggested by the connection.
-Word Study (Word Study)
-Identify 1-3 words that seem to be extra significant to the development of characters, ideas, and themes in the reading for the
-day. For each word, discuss its meaning in the context in which it is found in the text, and explain why the word seems to
-be central to the writer’s character/big idea/theme development.
-Reflective Free-write (Reading Comprehension, Literature Study, or Word Study)
-This is an open-ended free-write that explores what you are thinking about what you are reading. You might speculate
-on big ideas and the big idea questions the author is exploring. You might consider what you enjoy about this book, and/or
-what makes it challenging to read. You can go any direction, but remember to keep it focused on specific characters, events,
-and details from the text.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzNDcxMTM4XX0=
--->
+Bancroft
+Bancroft is one of those characters who represents a cross between the wise mentor figure (lotr, star wars. etc) And the wise villans from those stories, at the beginning you can consider him
