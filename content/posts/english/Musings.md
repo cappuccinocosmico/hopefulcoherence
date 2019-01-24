@@ -28,6 +28,17 @@ And there are only five basic fears, out of which almost all of our other so-cal
    Ego-death—the fear of humiliation, shame, or any other mechanism of profound self-disapproval that threatens the loss of integrity of the Self; the fear of the shattering or disintegration of one's constructed sense of lovability, capability, and worthiness.
 
 The idea from psycology is that all of the other fears are manufactured from these fears.
+
+
+Doppelganger
+
+Traits
+Shapechanger: The doppelganger can use its action to Polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its Statistics, other than its size, are the same in each form. Any Equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+Ambusher: In the first round of a Combat, the doppelganger has advantage on Attack rolls against any creature it has surprised.
+
+Surprise Attack: If the doppelganger surprises a creature and hits it with an Attack during the first round of Combat, the target takes an extra 10 (3d6) damage from the Attack.
+
 # What is the nature of reality
 Simulacra and Simulation delineates the sign-order into four stages:
 
