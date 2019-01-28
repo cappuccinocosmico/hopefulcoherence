@@ -24,6 +24,8 @@ Connections
 - Wealth Inequality
 - The Inobling Quality of Age
 - Rich Pepole are the wisest.
+- I think it connects quite nicely to the modern political climate of idolisation of rich pepole in our society (think elon musk or donald trump)
+
 
 # Reading Journal Entry #4
 Passage #1
