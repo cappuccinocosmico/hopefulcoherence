@@ -23,14 +23,22 @@ Connections
 - Inheritence Law
 - Wealth Inequality
 - The Inobling Quality of Age
--
-# Reading Journal Entry #4
-Passages
-> I lifted a hand to shade my eyes and saw that the seaward lounge had an upper level with sliding glass doors that accessed a balcony. Leaning on the balcony was a man. He must have heard us come in; come to that, he must have heard the police cruiser arrive and known what it signified, but still he stayed where he was, staring out to sea. Coming back from the dead sometimes makes you feel that way. Or maybe it was just arrogance. Mrs Bancroft nodded me forward and we went up a set of stairs made from the same wood as the door. For the first time I noticed that the walls of the room were shelved from top to bottom with books. The sun was laying an even coat of orange light along their spines.
+- Rich Pepole are the wisest.
 
+# Reading Journal Entry #4
+Passage #1
+>I lifted a hand to shade my eyes and saw that the seaward lounge had an upper level with sliding glass doors that accessed a balcony. Leaning on the balcony was a man. He must have heard us come in; come to that, he must have heard the police cruiser arrive and known what it signified, but still he stayed where he was, staring out to sea. Coming back from the dead sometimes makes you feel that way. Or maybe it was just arrogance. Mrs Bancroft nodded me forward and we went up a set of stairs made from the same wood as the door. For the first time I noticed that the walls of the room were shelved from top to bottom with books. The sun was laying an even coat of orange light along their spines.
+
+Passage #2
 >“Perspective.” He nodded and swung an arm out over his property. “You see that tree. Just beyond the tennis courts.”...“That tree is over seven hundred years old. When I bought this property, I hired a design engineer and he wanted to chop it down. He was planning to build the house further up the rise, and the tree was spoiling the sea view. I sacked him.” ...“You see, Mr. Kovacs, that engineer was a man in his thirties, and to him the tree was just an inconvenience. It was in his way. The fact it had been part of the world for over twenty times the length of his own life didn’t seem to bother him. He had no respect.”
 
+Passage #3
 > We looked at each other while I tried to decide if I was angry with this man or not. He’d dragged me halfway across the settled universe, dumped me into a new body and offered me a deal that was weighted so I couldn’t refuse. Rich people do this. They have the power and they see no reason not to use it. Men and women are just merchandise, like everything else. Store them, freight them, decant them. Sign at the bottom please.
+
+
 # Reading Journal Entry #5
-Bancroft
-Bancroft is one of those characters who represents a cross between the wise mentor figure (lotr, star wars. etc) And the wise villans from those stories, at the beginning you can consider him
+### Bancroft
+Bancroft is one of those characters who represents a cross between the wise mentor figure (lotr, star wars. etc) And the wise old villans from those stories, making him an intresting blend of character archetypes. His relationship with the main character kovacs is also quite intresting. Because without him kovacs would have rotted in prison forever, contrasting that he also is using that threat to force him to do work for him.
+### Kovacs
+
+Kovacs is a character who serves very different purposes in the TV show and in the book. In the book I find him one of the least intresting characters, he is realy underdeveloped in the book for several reasons. Mostly he rarely expresses opinions, a lot of the time he just sits arround acting smart. I have seen this before in a lot of realy bad TV shows/early comic books/bad video game protagonists, where the protagonist has no identifiable traits so that the reader can essentialy cast themselves in the story.
