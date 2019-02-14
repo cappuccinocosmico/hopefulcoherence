@@ -27,3 +27,9 @@ Surprise Attack: If the doppelganger surprises a creature and hits it with an At
 
 
 # Makeup Essay
+Write about the dark side of oneself.
+
+In season 3 of Twin Peaks we can see this theme developed even further, with the bob controlled cooper, being seen as a dark side of the real  cooper. Compared to the innocent Duggie Jones, we are scared of Cooper's dopelganger because he reflects the evil side in all of us. We can see this example of "the shadow". In a lot of other texts, Originaly in Dr. Jekkel and Mr. Hyde, but also in star wars, breaking bad, Mr. Robot, as well as many others. most intrestingly in Breaking Bad where we see, the 2 sides of the main protagonist. We see the Wa 
+
+
+r
