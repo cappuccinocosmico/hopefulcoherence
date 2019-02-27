@@ -1,4 +1,5 @@
-# Watchmen REO:5
+# Reading Evidence Option 5
+### Watchmen
 
 ## Summary
 
@@ -6,13 +7,13 @@ In Chapter 11, Rorschach and Dan arrive at Adrian's HQ. Adrian is prepared for t
 ### Quotes
 
 
-"The morality of my activities escapes me."
+>"The morality of my activities escapes me."
 Dr. Manhattan, Chapter 4
 
 Dr. Manhattan's transformation into a superhuman strips him of his moral compass. He no longer sees events or actions as morally right or wrong—he sees only facts and logic. That's not very helpful in the long run. The United States government relies on Dr. Manhattan to protect the country from nuclear attack, but he feels no moral obligation to fulfill his duty. It also provides an intresting angle to his character as you see the way that adrian manipulated him for so long
 
 
-"One more body amongst foundations makes little difference."
+>"One more body amongst foundations makes little difference."
 Rorschach, Chapter 12
 
 Rorschach doesn't intend to keep the truth about New York's "alien invasion" a secret. He has always said he refuses to compromise his moral principles, but he also knows not everyone follows the same moral code. What he is saying is that he is so fundamentaly rigid in his beleifs that he can not comprimise at all on this one last thing. He always belived truth
@@ -23,15 +24,9 @@ As masked crime fighters, all of Watchmen's main characters have dual identities
 
 Rorschach eventually comes to find himself identifying more with his vigilante persona than his everyday self, which is why the persona of Rorschach supersedes that of Walter Kovacs to become his primary identity.
 
-### Right Wing Undertones & the death penalty. Free write 2
-
-We see Rorschach the main character (ish) of the story express a very right wing ideology throughout most of the series. We see him say things like the world is infested with vermin that are beneath him and that pepole are incapable of change. We see a similar thing with current idelogy of republicanism with similar themes of the need to preserve america against filth (immigrants, or acedemics are frequent subjects of hate.)
-
-Another similar thing can be seen with Rorschach's use of the death penalty. Most of the philosophical reasoning for it stands on the ground that if the person were to be let go he would continue to commit crimes, so the ***only*** solution is murder. It assumes that pepole are incapable of change of any kind. And that you can be 100% sure of there guilt. Both major things that is assumed often in defense of the death penalty.
-
 ### Questions
 
-What is Veits Plan to unite humanity?
+What is Adrian's Plan to unite humanity?
 
 What does his plan say about the fundamental nature of humanity?
 
