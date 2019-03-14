@@ -11,14 +11,14 @@ The next chapter continues as Rorschach is taken to prison, where he is question
 >Who are we protecting them from?
 Dan, Chapter 2
 
-Dan asks this question as he and the Comedian hold rioting New Yorkers at bay in 1975. The crowd is rioting against the vigilantes, and Dan is beginning to question the usefulness of the vigilantes' profession. The Comedian responds that they're protecting civilians from "themselves," but Dan doesn't seem so sure.
+Dan asks this question as he and the Comedian hold rioting New Yzorkers at bay in 1975. The crowd is rioting against the vigilantes, and Dan is beginning to question the usefulness of the vigilantes' profession. The Comedian responds that they're protecting civilians from "themselves," but Dan doesn't seem so sure.
 
 
 
 > You know how every damn thing in this world fits together except people!
 Janey (Manhattans first GF), Chapter 3
 
-Janey says this to Dr. Manhattan shortly after the assassination of John F. Kennedy. She's trying to tell him he lost his humanity when he became a superhuman. His inability to understand the more illogical aspects of human nature prevent him from being a true superhero. This is also a continuation
+Janey says this to Dr. Manhattan shortly after the assassination of John F. Kennedy. She's trying to tell him he lost his humanity when he became a superhuman. His inability to understand the more illogical aspects of human nature prevent him from being a true superhero. This is also a continuation of his perception of time as an immovable and deterministic.
 
 
 
