@@ -15,3 +15,35 @@ In the first edition of the book the monster is actualy sentient and nice kind o
 Begins in the north pole. flashbacks to frakenstien in college and early childhood
 
 Exposure to death causes fear of death
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monster= Survive
+Victor=Death
+Elizabeth=
